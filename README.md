@@ -10,7 +10,7 @@
 *  Figma
 
 
-## 📝 Documentação
+## 📝 PROJETO FINAL
 
 - [Assista aqui o resultado final](https://Rodrigocolorado.github.io/projetoo/)
 
